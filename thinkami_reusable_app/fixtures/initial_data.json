@@ -1,0 +1,86 @@
+[
+    {
+        "model": "thinkami_reusable_app.CheckBoxItem",
+        "pk": 1,
+        "fields": {
+            "name": "checkbox1"
+        }
+    },
+    {
+        "model": "thinkami_reusable_app.CheckBoxItem",
+        "pk": 2,
+        "fields": {
+            "name": "checkbox2"
+        }
+    },
+    {
+        "model": "thinkami_reusable_app.CheckBoxItem",
+        "pk": 3,
+        "fields": {
+            "name": "checkbox3"
+        }
+    },
+    {
+        "model": "thinkami_reusable_app.RadioItem",
+        "pk": 1,
+        "fields": {
+            "name": "radio1"
+        }
+    },
+    {
+        "model": "thinkami_reusable_app.RadioItem",
+        "pk": 2,
+        "fields": {
+            "name": "radio2"
+        }
+    },
+    {
+        "model": "thinkami_reusable_app.RadioItem",
+        "pk": 3,
+        "fields": {
+            "name": "radio3"
+        }
+    },
+    {
+        "model": "thinkami_reusable_app.SelectItem",
+        "pk": 1,
+        "fields": {
+            "name": "select1"
+        }
+    },
+    {
+        "model": "thinkami_reusable_app.SelectItem",
+        "pk": 2,
+        "fields": {
+            "name": "select2"
+        }
+    },
+    {
+        "model": "thinkami_reusable_app.SelectItem",
+        "pk": 3,
+        "fields": {
+            "name": "select3"
+        }
+    },
+    {
+        "model": "thinkami_reusable_app.SelectMultipletem",
+        "pk": 1,
+        "fields": {
+            "name": "select_multi1"
+        }
+    },
+    {
+        "model": "thinkami_reusable_app.SelectMultipletem",
+        "pk": 2,
+        "fields": {
+            "name": "select_multi2"
+        }
+    },
+    {
+        "model": "thinkami_reusable_app.SelectMultipletem",
+        "pk": 3,
+        "fields": {
+            "name": "select_multi3"
+        }
+    }
+]
